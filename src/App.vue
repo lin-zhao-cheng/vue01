@@ -1,10 +1,11 @@
 <script setup>
 import componentA from './components/componentA.vue';
+import componentB from './components/componentB.vue';
 </script>
 
 
 <template>
-<componentA/>
+<componentB/>
 </template>
 
 
